@@ -4,5 +4,4 @@ Written in 2017 by Matija Šuklje <hook@techcultivation.org> on behalf of the Ce
 
 To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this document to the public domain worldwide.
 
-You should have received a copy of the CC0 Public Domain Dedication along with this document. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>. 
-
+You should have received a copy of the CC0 Public Domain Dedication along with this document. If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
