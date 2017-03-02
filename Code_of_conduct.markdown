@@ -26,7 +26,7 @@ We ex­pect the fol­low­ing be­hav­iour to be the norm with­in the Center f
 
 ## License information
 
-Written in 2017 by Matija Šuklje <hook@techcultivation.org> on behalf of the Center for the Cultivation of Technology <https://techcultivation.org> as a modification of the [Code of Conduct of \[\The Commons Conservancy\]][coc_tcc], authored in 2016 by Michiel Leenaars <michiel@nlnet.nl> and Matija Šuklje <matija@suklje.name>, which was itself in turn based on the [IEEE Code of Ethics][coc_ieee].
+Written in 2017 by Matija Šuklje <hook@techcultivation.org> on behalf of the Center for the Cultivation of Technology <https://techcultivation.org> as a modification of the [Code of Conduct of \[The Commons Conservancy\]][coc_tcc], authored in 2016 by Michiel Leenaars <michiel@nlnet.nl> and Matija Šuklje <matija@suklje.name>.
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by/4.0/>.
 
