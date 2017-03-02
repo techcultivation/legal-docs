@@ -1,6 +1,6 @@
 # License information
 
-Written in 2016 by Matija Šuklje <hook@techcultivation.org> on behalf of the Center for the Cultivation of Technology <https://techcultivation.org>.
+Written in 2017 by Matija Šuklje <hook@techcultivation.org> on behalf of the Center for the Cultivation of Technology <https://techcultivation.org>.
 
 To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this document to the public domain worldwide.
 
