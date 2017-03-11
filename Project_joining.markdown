@@ -23,8 +23,8 @@ The project has to agree and comply with CCT’s [Mission][mission] and [Bylaws]
 [oshwa]: https://www.oshwa.org/
 [oshw_license]: https://www.oshwa.org/sharing-best-practices/
 [coc]: {filename}/Code_of_conduct.markdown
-[mission]:
-[bylaws]: 
+[mission]: https://techcultivation.org/docs/overview.html#mission
+[bylaws]: https://techcultivation.org/docs/bylaws.html
 
 
 ## Process
@@ -56,18 +56,6 @@ Generally the process starts with an informal discussion between representatives
     The CCT or the project can cancel this contract 3 months preliminary lead time. The project has the option to spend the money available, name another non-profit institution (this can be an own legal entity founded by the project but it needs to be a non profit) to handle the available money, or leave the collected money at the CCT which will spend it for other projects. Money from grants need to be spent for the designated funding topic; if this is not doable within the time the contract will run till the end of the funding period and with the final report to the funders. The possibility to collect donations will nevertheless end with the decision to cancel the contract.
     The undersigners for the project are signing on behalf of the project after internal decision making
 
-
-###
-
-## Communication between CCT and the project
-
-All formal communication between the project and the CCT shall be made in the English language and take place either via e-mail or the platform.
-
-Peo­ple on the mail­ing list are strong­ly recommended to use an e-mail ac­count that of­fers pro­tec­tion against iden­ti­ty theft through use of ap­pro­pri­ate stan­dards (such as [SPF][], [D­KIM][] and [D­MAR­C][]).
-
-[SPF]: https://tools.ietf.org/html/rfc7208
-[DKIM]: https://tools.ietf.org/html/rfc7489
-[DMARC]: https://tools.ietf.org/html/rfc6376
 
 ## Services
 
