@@ -7,11 +7,11 @@ This document sets forth the rules for formal communication between the project 
 
 All formal communication between the project and the CCT shall be made in the English language and take place either via e-mail or the platform.
 
-Contactpersons from both the project and the CCT are strong­ly recommended to use an e-mail ac­count that of­fers pro­tec­tion against iden­ti­ty theft through use of ap­pro­pri­ate stan­dards (such as [SPF][], [D­KIM][] and [D­MAR­C][]).
+Contactpersons from both the project and the CCT are strong­ly recommended to use an e-mail ac­count that of­fers pro­tec­tion against iden­ti­ty theft through use of ap­pro­pri­ate stan­dards (such as [SPF][spf], [D­KIM][dkim] and [D­MAR­C][dmarc]).
 
-[SPF]: https://tools.ietf.org/html/rfc7208
-[DKIM]: https://tools.ietf.org/html/rfc7489
-[DMARC]: https://tools.ietf.org/html/rfc6376
+[spf]: https://tools.ietf.org/html/rfc7208
+[dkim]: https://tools.ietf.org/html/rfc7489
+[dmarc]: https://tools.ietf.org/html/rfc6376
 
 
 ## Informal communication
