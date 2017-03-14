@@ -9,19 +9,15 @@ CCT’s goal is minimising project’s administrative overhead and therefore it 
 
 Still, in order to properly represent and protect a project, we need it to meet some minimum requirements.
 
-A CCT member project has to be released under a free and open license. E.g. for software that would be any license(s) the [Free Software Foundation][fsf] classifies as [Free Software License][fs_license] and which are approved by the [Open Source Initiative][osi] as [Open Source licenses][os_license]; for hardware that would be any license explicitly suggested by the [Open Source Hardware Association][oshwa] in its [best practices][oshw_license] (preferably the hardware-specific ones). For other content, the CCT would decide on a case-by-case basis whether the project’s license is free and open.
+A CCT member project has to be released under a free and open license. For further details see [Outbound licensing][outbound] document.
 
 The project has to agree and comply with CCT’s [Mission][mission] and [Bylaws][bylaws].
 
 - project chooses a person to be the contact (by default: project lead) to CCT;
 - Agreement with [Code of conduct][coc]
 
-[fsf]: https://fsf.org/
-[fs_license]: https://www.gnu.org/licenses/license-list#SoftwareLicenses
-[osi]: https://opensource.org/
-[os_license]: https://opensource.org/licenses/
-[oshwa]: https://www.oshwa.org/
-[oshw_license]: https://www.oshwa.org/sharing-best-practices/
+
+[outbound]: {filename}/Outbound_licensing.markdown
 [coc]: {filename}/Code_of_conduct.markdown
 [mission]: https://techcultivation.org/docs/overview.html#mission
 [bylaws]: https://techcultivation.org/docs/bylaws.html
