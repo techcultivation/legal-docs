@@ -30,5 +30,5 @@ Written in 2017 by Matija Šuklje <hook@techcultivation.org> on behalf of the Ce
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by/4.0/>.
 
-[coc_tcc]: http://dracc.commonsconservancy.org/0015-CodeOfConduct/
+[coc_tcc]: http://dracc.commonsconservancy.org/0015/
 [coc_ieee]: http://www.ieee.org/about/corporate/governance/p7-8.html
