@@ -69,8 +69,7 @@ The project shall pay the CCT
 
 - link to Project_leaving.markdown
 
-
-## License information
+---
 
 Written in 2016 by Matija Šuklje <hook@techcultivation.org> on behalf of the Center for the Cultivation of Technology <https://techcultivation.org>.
 

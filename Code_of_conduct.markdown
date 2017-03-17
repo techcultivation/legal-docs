@@ -23,8 +23,7 @@ We ex­pect the fol­low­ing be­hav­iour to be the norm with­in the Center f
 1. to avoid in­jur­ing oth­er­s, their prop­er­ty, rep­u­ta­tion, or em­ploy­ment by false or ma­li­cious ac­tion;
 1. to as­sist oth­ers in their pro­fes­sion­al de­vel­op­ment and to sup­port them in­ ­fol­low­ing this code of ethic­s.
 
-
-## License information
+---
 
 Written in 2017 by Matija Šuklje <hook@techcultivation.org> on behalf of the Center for the Cultivation of Technology <https://techcultivation.org> as a modification of the [Code of Conduct of \[The Commons Conservancy\]][coc_tcc], authored in 2016 by Michiel Leenaars <michiel@nlnet.nl> and Matija Šuklje <matija@suklje.name>.
 
