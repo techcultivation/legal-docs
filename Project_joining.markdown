@@ -17,8 +17,8 @@ The project has to agree and comply with CCT’s [Mission][mission] and [Bylaws]
 - Agreement with [Code of conduct][coc]
 
 
-[outbound]: {filename}/Outbound_licensing.markdown
-[coc]: {filename}/Code_of_conduct.markdown
+[outbound]: /Outbound_licensing.markdown
+[coc]: /Code_of_conduct.markdown
 [mission]: https://techcultivation.org/docs/overview.html#mission
 [bylaws]: https://techcultivation.org/docs/bylaws.html
 
