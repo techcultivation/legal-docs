@@ -46,7 +46,7 @@ For the avoidance of doubt, from the Creative Commons list of licenses, we would
 [ccbysa]: https://creativecommons.org/licenses/by-sa/4.0/
 
 
-## License information
+---
 
 Written in 2016 by Matija Šuklje <hook@techcultivation.org> on behalf of the Center for the Cultivation of Technology <https://techcultivation.org>.
 
