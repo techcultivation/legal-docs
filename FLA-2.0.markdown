@@ -1,9 +1,9 @@
 # Fiduciary License Agreement 2.0
 
 Thank you for your interest in contributing your assets to the Center for the Cultivation of Technology (“We” or “Us”).
-The purpose of this contributor agreement (“Agreement”) is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions in the [Inbound license][inbound] document.
+The purpose of this contributor agreement (“Agreement”) is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions in the [Aggregating intangible assets][inbound] document.
 
-[inbound]: /Inbound_license.markdown
+[inbound]: /Aggregating_assets.markdown
 
 
 ## 0. Preamble
