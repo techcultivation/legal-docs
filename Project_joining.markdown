@@ -11,10 +11,7 @@ Still, in order to properly represent and protect a project, we need it to meet 
 
 A CCT member project has to be released under a free and open license. For further details see [Outbound licensing][outbound] document.
 
-The project has to agree and comply with CCT’s [Mission][mission] and [Bylaws][bylaws].
-
-- project chooses a person to be the contact (by default: project lead) to CCT;
-- Agreement with [Code of conduct][coc]
+The project and all its representatives have to agree and comply with CCT’s [Mission][mission] and [Bylaws][bylaws] as well as general professional integrity, as described in the [Code of conduct][coc].
 
 
 [outbound]: /Outbound_licensing.markdown
@@ -29,14 +26,23 @@ The project has to agree and comply with CCT’s [Mission][mission] and [Bylaws]
 
 Generally the process starts with an informal discussion between representatives of the project and board members of the Center for the Cultivation of Technology. Such discussions are of purely informational nature and do not constitute any obligation from either side.
 
-………
+For more information on formal and informal communication see the [Internal decisions and communication][communication] document.
+
+[communication]: /Internal_decisions_and_communication.markdown
+
 
 ### Formal application
 
-- written application
-- CCT board votes and approves
+A project formally applies by sending a simple e-mail to <contact@techcultivation.org> expressing interest to join.
 
-### Memorandum of understanding
+Upon receival, the CCT makes some quick checks to see whether the project qualifies or not. If it does, the CCT notifies the project that it found it eligible to join.
+
+At the latest at this stage, the project should select a primary contact person for all things related to the Center for its relationship with the Cultivation of Technology.
+
+
+### Formal agreement
+
+After the project has formally applied and the the Center for the Cultivation of Technology has notified it that the project is eligible to join, the project and the CCT agree regarding 
 
 - signs MoU (link to MoU template here), specifying the services offered (link to services if applicable)
 
