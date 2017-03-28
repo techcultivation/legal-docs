@@ -11,15 +11,25 @@ To achieve this, we use the following legal tools:
 
 ## Copyright and patents
 
-To aggregate copyright and patents we use the [Fiduciary License Agreement 2.0][fla2] (FLA-2.0), which is a unique contributor agreement, created by the [Free Software Foundation Europe][fsfe] with the goal to provide a well-balanced contributor agreement that takes into account the interest of the developers as well as the wider community.
+For projects that wish to aggregate copyrights (and patents) through the Center for the Cultivation of Technology, we use the Fiduciary License Agreement 2.0 (FLA-2.0), which is a unique and well-balanced contributor agreement, created by the [Free Software Foundation Europe][fsfe], which takes into account the interest of the developers as well as the wider community. The FLA assures that the project forever remains free and open.
 
-The FLA assures that the outbound license of the project will forever remain free and open. For more information on outbound licensing preferences of the Center for the Cultivation of Technology see the [Outbound licensing][outbound] document.
+When a project is applying the FLA-2.0, it should choose one of the following documents, where the difference between them is solely in the outbound license flexibility, as stated in _§4. License obligations by Us_:
 
-For projects that wish to aggregate copyrights (and patents) through the Center for the Cultivation of Technology, we ask all contributors to sign the FLA-2.0.
+- _[FLA-2.0][fla2]_ – if the project and its contributors are fine with whichever FOSS license(s) now or in the future;
+- _[FLA-2.0][fla2-licenses]_ – if the project already knows which specific FOSS license(s) it wants to use;
+- _[FLA-2.0][fla2-policy]_ – if the project uses a (re)licensing policy to more finely grained proscribe which parts of the code fall under which FOSS license and/or even a process how the project may change its FOSS license(s).
 
-When a project is applying the FLA-2.0, it should make sure to select only one of the licensing options stated in _§4. License obligations by Us_ and remove the wording of the option(s) not used (see comments in [the MarkDown version of the text][fla2]).
+Note that in all three cases, the FLA-2.0 only allows for licenses the Free Software Foundation classifies as [Free Software License][fsf-list] and which are also approved by the Open Source Initiative as [Open Source licenses][osi-list] (referred to above as “FOSS license(s)”). For more information on outbound licensing requirements and preferences of the Center for the Cultivation of Technology see the [Outbound licensing][outbound] document.
+
+After the project chooses which version of the FLA-2.0 should apply to it, every contributor shall sign such version of the FLA-2.0 with the Center for the Cultivation of Technology and send it to the Center for the Cultivation of Technology.
+
+The Center for the Cultivation of Technology shall sign it as well and send a copy back to the contributor, inform the project and archive its own copy.
 
 [fla2]: FLA-2.0.markdown
+[fla2-policy]: FLA-2.0_for_licensing_policy.markdown
+[fla2-licenses]: FLA-2.0_for_specific_licenses.markdown
+[osi-list]: https://opensource.org/licenses/
+[fsf-fist]: https://www.gnu.org/licenses/license-list.html
 [fsfe]: https://fsfe.org
 [outbound]: Outbound_licensing.markdown
 
@@ -28,7 +38,7 @@ When a project is applying the FLA-2.0, it should make sure to select only one o
 
 For any trade (or service) marks that the Center for the Cultivation of Technology would hold, we will work together with the project to come up with a good trade mark policy, to ensure how the project’s community may use the trade mark.
 
-A good starting point is the <http://fossmarks.org/> website.
+A good starting point is the <http://fossmarks.org> website.
 
 
 ## Code audit
