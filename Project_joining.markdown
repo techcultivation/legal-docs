@@ -11,7 +11,14 @@ Still, in order to properly represent and protect a project, we need it to meet 
 
 A CCT member project has to be released under a free and open license. For further details see [Outbound licensing][outbound] document.
 
+<<<<<<< HEAD
 The project and all its representatives have to agree and comply with CCT’s [Mission][mission] and [Bylaws][bylaws] as well as general professional integrity, as described in the [Code of conduct][coc].
+=======
+The project has to agree and comply with CCT’s [Mission][mission] and [Bylaws][bylaws].
+
+- project chooses a person to be the contact (by default: project lead) to CCT;
+- Agreement with [Code of conduct][coc]
+>>>>>>> 9671f577484f49459889dc16e4234ee1d309067e
 
 
 [outbound]: /Outbound_licensing.markdown
@@ -26,6 +33,7 @@ The project and all its representatives have to agree and comply with CCT’s [M
 
 Generally the process starts with an informal discussion between representatives of the project and board members of the Center for the Cultivation of Technology. Such discussions are of purely informational nature and do not constitute any obligation from either side.
 
+<<<<<<< HEAD
 For more information on formal and informal communication see the [Internal decisions and communication][communication] document.
 
 [communication]: /Internal_decisions_and_communication.markdown
@@ -43,6 +51,16 @@ At the latest at this stage, the project should select a primary contact person 
 ### Formal agreement
 
 After the project has formally applied and the the Center for the Cultivation of Technology has notified it that the project is eligible to join, the project and the CCT agree regarding 
+=======
+………
+
+### Formal application
+
+- written application
+- CCT board votes and approves
+
+### Memorandum of understanding
+>>>>>>> 9671f577484f49459889dc16e4234ee1d309067e
 
 - signs MoU (link to MoU template here), specifying the services offered (link to services if applicable)
 
