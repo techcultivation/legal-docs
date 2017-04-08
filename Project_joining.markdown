@@ -5,21 +5,15 @@ This document describes the requirements and procedures for a project to join th
 
 ## Candidate project requirements
 
-CCT’s goal is minimising project’s administrative overhead and therefore it aims at being as light-weight as possible itself in its requirements and obligations from the project.
+One of the main goals of the Center for the Cultivation of Technology is minimising project’s administrative overhead. Therefore it aims at being as light-weight as possible itself in its requirements and obligations from the project.
 
 Still, in order to properly represent and protect a project, we need it to meet some minimum requirements.
 
 A CCT member project has to be released under a free and open license. For further details see [Outbound licensing][outbound] document.
 
-<<<<<<< HEAD
-The project and all its representatives have to agree and comply with CCT’s [Mission][mission] and [Bylaws][bylaws] as well as general professional integrity, as described in the [Code of conduct][coc].
-=======
-The project has to agree and comply with CCT’s [Mission][mission] and [Bylaws][bylaws].
+The project and all its representatives have to agree and comply with CCT’s [Mission][mission] and [Bylaws][bylaws] as well as general professional integrity, described in the [Code of conduct][coc].
 
-- project chooses a person to be the contact (by default: project lead) to CCT;
-- Agreement with [Code of conduct][coc]
->>>>>>> 9671f577484f49459889dc16e4234ee1d309067e
-
+It should also be noted that the relationship is non-exclusive and that the project may work with other organisations, even other fiscal sponsors, to complement the services offered by the CCT. In such case, the project should notify the Center for the Cultivation of Technology, which other organisations it already joined or uses, or wants to join or use; as well as its relationship with them. For such the project does not need an explicit agreement from the CCT, but should this be counter to the [Mission][mission], [Bylaws][bylaws] or the [Code of conduct][coc], the CCT may ask the project to fix this issue.
 
 [outbound]: /Outbound_licensing.markdown
 [coc]: /Code_of_conduct.markdown
@@ -31,9 +25,8 @@ The project has to agree and comply with CCT’s [Mission][mission] and [Bylaws]
 
 ### First informal contact
 
-Generally the process starts with an informal discussion between representatives of the project and board members of the Center for the Cultivation of Technology. Such discussions are of purely informational nature and do not constitute any obligation from either side.
+Generally the process starts with an informal discussion between representatives of the project and board members of the Center for the Cultivation of Technology. Such discussions are of purely informational nature and do not constitute any obligation to either party.
 
-<<<<<<< HEAD
 For more information on formal and informal communication see the [Internal decisions and communication][communication] document.
 
 [communication]: /Internal_decisions_and_communication.markdown
@@ -45,53 +38,33 @@ A project formally applies by sending a simple e-mail to <contact@techcultivatio
 
 Upon receival, the CCT makes some quick checks to see whether the project qualifies or not. If it does, the CCT notifies the project that it found it eligible to join.
 
-At the latest at this stage, the project should select a primary contact person for all things related to the Center for its relationship with the Cultivation of Technology.
+At the latest at this stage, the project has to select a primary contact person for all things related to its relationship with the Center for the Cultivation of Technology. This person – the Project Representative – should have all the rights necessary to represent and enter into agreements for the project. How the Project Representative is appointed by the project is left entirely to the project itself.
 
 
 ### Formal agreement
 
-After the project has formally applied and the the Center for the Cultivation of Technology has notified it that the project is eligible to join, the project and the CCT agree regarding 
-=======
-………
+After the project has formally applied and the the Center for the Cultivation of Technology has notified it that the project is eligible to join, the project and the CCT shall agree in writing regarding the following:
 
-### Formal application
+- which services does the Center for the Cultivation of Technology provide to the project (see the [Services document][services] for reference);
+- the payment that the Center for the Cultivation of Technology receives for its services – as a guiding rule, for standard services 10% of all incoming donations and grants should be appropriate and is therefore the default;
+- that both parties agree to follow [the legal and documents rules of the Center for the Cultivation of Technology][legal-docs];
+- which are the formal contacts on each party’s side.
 
-- written application
-- CCT board votes and approves
+[services]: ./Services.markdown
+[legal-docs]: https://gitlab.techcultivation.org/techcultivation/legal-docs
 
-### Memorandum of understanding
->>>>>>> 9671f577484f49459889dc16e4234ee1d309067e
+### On-boarding
 
-- signs MoU (link to MoU template here), specifying the services offered (link to services if applicable)
+After both parties sign the formal agreement, the Center for the Cultivation of Technology sets up all the needed accounts and access to its platfrom and other services to the Project Representative.
 
+On the platform itself the Project Representative may delegate power and/or grant specific roles to to other members of the project.
 
-    The parties accord to work together on $topic of project
-    The relationship is non-exclusive; projects can have other fiscal sponsors or legal entities.
-    CCT will provide infrastructure for collecting donations preferenced onto the project
-    CCT is allowed to use name and logo on website and publications stating trademark and IP belonging to the project or whomever depending on license of the FLOSS project.
-    The CCT will provide automated processes for projects, including but not limited to reimbursement, travel expenses, hardware costs, servers, rent contracts, contracting of developers, employment of developers, selling merchandise.
-    The CCT is giving control of the money collected for the project to the project but allows to object if spendings do not accord to German taxation law and/or are in general illegal (e.G. buying drugs, weapons, etc.)
-    The CCT will take x% of the donations as an overhead to pay for accounting, infrastructure, etc. This money will be deducted the moment it arrives at the CCT. There will be NO BILLING.
-    The CCT can manage funds for the projects, support the project to get fundings and will help the project to create reports for the funders.
-    The CCT or the project can cancel this contract 3 months preliminary lead time. The project has the option to spend the money available, name another non-profit institution (this can be an own legal entity founded by the project but it needs to be a non profit) to handle the available money, or leave the collected money at the CCT which will spend it for other projects. Money from grants need to be spent for the designated funding topic; if this is not doable within the time the contract will run till the end of the funding period and with the final report to the funders. The possibility to collect donations will nevertheless end with the decision to cancel the contract.
-    The undersigners for the project are signing on behalf of the project after internal decision making
-
-
-## Services
-
-- Gives the CCT the possibility to present the project to the outside world
-- Leave decisions about the projects within the projects
-- Act as a fiscal sponsor for the project
-- Act as legal body for the project if it is not incorporated or an association
-- Act as partner if project is already incorporated or an association
-
-## Costs
-
-The project shall pay the CCT
 
 ## Freedom to leave
 
-- link to Project_leaving.markdown
+At any stage the project is free to decide to leave the Center for the Cultivation of Technology. The procedure and details are proscribed in the [Project leaving document][leaving].
+
+[leaving]: /Project_leaving.markdown
 
 ---
 
