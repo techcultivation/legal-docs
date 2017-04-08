@@ -46,9 +46,9 @@ Such decisions the project may make via any communication and decision system th
 
 ## Decisions relating to CCT
 
-Financial decisions that are covered by the CCT platform’s feature set, can be made through the CCT platform directly. Unless stated otherwise, the project’s decisions and instructions submited through the CCT platform will be automatically applied. It is the project’s responibility to ensure that the correct project representatives are assigned the correct corresponding roles and permissions within the CCT platform.
+Financial decisions that are covered by the CCT platform’s feature set, can be made through the CCT platform directly. Unless stated otherwise, the project’s decisions and instructions submited through the CCT platform will be automatically applied. It is the project’s responibility to ensure that the correct Project Representatives are assigned the correct corresponding roles and permissions within the CCT platform.
 
-For all other for­mal de­ci­sions to be made, an authorised project representative must send it to the ­mail­ing list reserved for the project’s formal communication. If no ob­jec­tion is made ­by any­one on the list with­in 72 hours, un­less an­oth­er pro­ce­dure is de­fined with­in the statutes or reg­u­la­tions of the project itself, the de­ci­sion will be fi­nal, and unless it this goes against the CCT’s mission and statutes, the CCT will carry out the resulting action.
+For all other for­mal de­ci­sions to be made, an authorised Project Representative must send it to the ­mail­ing list reserved for the project’s formal communication. If no ob­jec­tion is made ­by any­one on the list with­in 72 hours, un­less an­oth­er pro­ce­dure is de­fined with­in the statutes or reg­u­la­tions of the project itself, the de­ci­sion will be fi­nal, and unless it this goes against the CCT’s mission and statutes, the CCT will carry out the resulting action.
 
 
 ---
