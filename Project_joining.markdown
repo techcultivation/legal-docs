@@ -43,14 +43,14 @@ At the latest at this stage, the project has to select a primary contact person 
 
 ### Formal agreement
 
-After the project has formally applied and the the Center for the Cultivation of Technology has notified it that the project is eligible to join, the project and the CCT shall agree in writing regarding the following:
+After the project has formally applied and the Center for the Cultivation of Technology has notified it that the project is eligible to join, the project and the CCT shall agree in writing regarding the following:
 
-- which services does the Center for the Cultivation of Technology provide to the project (see the [Services document][services] for reference);
+- which services does the Center for the Cultivation of Technology provide to the project (see the [Services][services] document for reference);
 - the payment that the Center for the Cultivation of Technology receives for its services – as a guiding rule, for standard services 10% of all incoming donations and grants should be appropriate and is therefore the default;
 - that both parties agree to follow [the legal and documents rules of the Center for the Cultivation of Technology][legal-docs];
 - which are the formal contacts on each party’s side.
 
-[services]: ./Services.markdown
+[services]: /Services.markdown
 [legal-docs]: https://gitlab.techcultivation.org/techcultivation/legal-docs
 
 ### On-boarding
@@ -62,7 +62,7 @@ On the platform itself the Project Representative may delegate power and/or gran
 
 ## Freedom to leave
 
-At any stage the project is free to decide to leave the Center for the Cultivation of Technology. The procedure and details are proscribed in the [Project leaving document][leaving].
+At any stage the project is free to decide to leave the Center for the Cultivation of Technology. The procedure and details are proscribed in the [Project leaving][leaving] document.
 
 [leaving]: /Project_leaving.markdown
 
