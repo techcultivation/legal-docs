@@ -13,17 +13,21 @@ Any software that a CCT project releases has to be under a(ny) license(s) the [F
 
 It is highly recommended to use a license that includes a patent clause.
 
+The preferred software licenses are [AGPL-3.0+][agpl] and [Apache-2.0][apache].
+
 [fsf]: https://fsf.org/
 [fs_license]: https://www.gnu.org/licenses/license-list#SoftwareLicenses
 [osi]: https://opensource.org/
 [os_license]: https://opensource.org/licenses/
+[agpl]: https://spdx.org/licenses/AGPL-3.0
+[apache]: https://spdx.org/licenses/Apache-2.0
 
 
 ## Hardware
 
 Any hardware released by a CCT project has to be be released under a(ny) license(s) explicitly suggested by the [Open Source Hardware Association][oshwa] in its [best practices][oshw_license]. Hardware-specific licenses, such as [CERN Open Hardware License][cern_ohl], [TAPR Open Hardware License][tapr_ohl] and [Solderpad Hardware License][solderpad_ohl], should be preferred.
 
-It is highly recommended to use a license that includes a patent clause.
+It is highly recommended to use a license that includes a patent clause and covers also semiconductor topography and mask rights.
 
 Also in general, the [OSHWA best practices][oshw_license] have to be followed, in order to make sure that the hardware is indeed open source.
 
@@ -36,9 +40,11 @@ Also in general, the [OSHWA best practices][oshw_license] have to be followed, i
 
 ## Other content
 
-Regarding other content, the CCT would decide on a case-by-case basis whether the project’s license is free and open, but the [Free culture licenses listed on FreedomDefined.org][freedomdefined] are a good reference.
+Regarding other content, the CCT would decide on a case-by-case basis whether the project’s license is free and open, but the [Free culture licenses listed on FreedomDefined.org][freedomdefined] are a good reference. Creative Commons licenses should be preferred.
 
-For the avoidance of doubt, from the Creative Commons list of licenses, we would only accept [CC0][cc0], [CC-BY][ccby] and [CC-BY-SA][ccbysa] of any version after 2.5, with a preference for later versions.
+Especially if the content consists or includes a data base, it is highly recommended to use a license that explicitly covers also sui generis data base rights.
+
+For the avoidance of doubt, from the Creative Commons list of licenses, only [CC0][cc0], [CC-BY][ccby], and [CC-BY-SA][ccbysa] of any version after 2.5 are acceptable, with a preference for later versions.
 
 [freedomdefined]: http://freedomdefined.org/Licenses
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/
