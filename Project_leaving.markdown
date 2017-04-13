@@ -33,9 +33,9 @@ If some of the physical assets are shared between different projects (e.g. share
 Should any intangible assets be aggregated through the Center for the Cultivation of Technology, such assets shall be transferred:
 
 - to the new organisation that is to hold the aggregate intangible assets for the project in the future; or should that not exist,
-- to the original authors themselves – effectively returning to each author the assets they wrote themselves.
+- to the original authors themselves – effectively returning to each author the assets they contributed themselves.
 
-In any case, the Center for the Cultivation of Technology reserves the right to hold a copy of the project’s intangible assets and continue to provide it to the public under a free and open license (see [Outbound licensing][outbound] document for licensing details).
+In any case – and this is unwaivable even in a written agreement –, the Center for the Cultivation of Technology reserves the right to hold a copy of the project’s intangible assets and continue to provide it to the public under a free and open license (see [Outbound licensing][outbound] document for licensing details).
 
 [outbound]: Outbound_licensing.markdown
 
